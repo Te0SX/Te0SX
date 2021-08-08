@@ -2,7 +2,7 @@
 mm mm MM, NO NO NOH!* 🤪
 
 ## 😄 About Me
------
+
 - My name is Theodoros 👋, and I am from Greece.  
 - I currently study Software Development MSc at UofG. 
 - I am a noobie noob🐣, had not much experience in proper programming until last year.
