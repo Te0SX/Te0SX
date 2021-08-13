@@ -14,9 +14,9 @@ hobbies: forums, blogs, irc, BT, books, crypto, Switch, leetcode (wink wink*)
 *(damn, I need to re-write this when I start applying for jobs lol)*
 
 
-## &#x1f4c8; My GitHub Stats
+<!-- ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Te0SX&hide=javascript&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Te0SX&count_private=true&hide=javascript&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- **Te0SX/Te0SX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
