@@ -1,18 +1,12 @@
-*Hey hey hey everybody, My name is Carlos Matos...
-mm mm MM, NO NO NOH!* 🤪
-
 ## 😄 About Me
 
 - My name is Theodoros 👋, and I am from Greece.  
 - I currently study Software Development MSc at UofG. 
-- I am a noobie noob🐣, had not much experience in proper programming until last year.
-- Writing mostly Java 🐒 and some Python atm. Can do R as well (do I? 🤔). 
-- Atm trying to evolve 🌱 as fast I can and become a great developer for your company. Oh yeah! Hire meeeee!
+- Writing mostly Java🐒 and some Python🐍 atm. Can do R as well (do I? 🤔). 
+- I am a noobie noob🐣, had not much experience in proper programming until last year
+- Trying to evolve 🌱 as fast I can.
 
-hobbies: forums, blogs, irc, BT, books, crypto, Switch, leetcode (wink wink*)
-
-*(damn, I need to re-write this when I start applying for jobs lol)*
-
+hobbies: forums, blogs, irc, BT, books, crypto, Switch
 
 <!-- ## &#x1f4c8; My GitHub Stats
 
